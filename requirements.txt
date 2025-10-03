@@ -1,0 +1,6 @@
+#Python libraries required for this project
+
+requests
+psycopg2-binary
+python-dotenv
+Flask
